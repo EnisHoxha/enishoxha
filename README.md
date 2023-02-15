@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enis</h1>
-<h3 align="center">A passionate full stack developer and DevOps from Kosovo</h3>
+<h3 align="center">A passionate full stack developer and DevOps </h3>
 
 - 💬 Ask me about **vue,express js,docker and kubernetes**
 

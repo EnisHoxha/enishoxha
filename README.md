@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **#vue,#express js,#docker,#kubernetes**
 
-- 📫 How to reach me <a href = "mailto: theenisy@gmail.com">Send Email</a>
+- 📫 How to reach me: <a href = "mailto: theenisy@gmail.com">**Send Email**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
